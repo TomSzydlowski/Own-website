@@ -1,0 +1,76 @@
+
+let frontendProjectsData = [
+    {
+      id: "p1",
+      name: "E-COMMERCE",
+      desc: "HTML, CSS, JS",
+      img: "img/p1.jpg",
+      href1: "http://szydlowskistore.prv.pl/index.html",
+      href2: "https://github.com/TomSzydlowski/Store",
+    },
+
+    {
+        id: "p2",
+        name: "BASKETBALL SCOREBOARD",
+        desc: "HTML, CSS, JS",
+        img: "img/p2.jpg",
+        href1: "https://scrimba.com/scrim/c9LrPMhe?a=74.0.1.L12_24",
+        href2: "https://github.com/TomSzydlowski/Basketball-scoreboard",
+      },
+     {
+        id: "p3",
+        name: "PASSWORD GENERATOR",
+        desc: "HTML, CSS, JS",
+        img: "img/p3.jpg",
+        href1: "https://scrimba.com/scrim/cDgkbqCv?a=183.0.1.L10_18",
+        href2: "https://github.com/TomSzydlowski/Password-generator",
+      },
+      {
+        id: "p4",
+        name: "UNIT CONVERTER",
+        desc: "HTML, CSS, JS",
+        img: "img/p4.jpg",
+        href1: "https://scrimba.com/scrim/c2aW78t6?a=110.0.1.L1",
+        href2: "https://github.com/TomSzydlowski/Unit-converter",
+      },
+      {
+        id: "p5",
+        name: "BUSINESS CARD",
+        desc: "HTML, CSS, JS, REACT",
+        img: "img/p5.jpg",
+        href1: "https://scrimba.com/scrim/co5ac4a7f965bf4268cb7b904",
+        href2: "https://github.com/TomSzydlowski/React-BusinessCard",
+      },
+      {
+        id: "p6",
+        name: "TRAVEL JOURNAL",
+        desc: "HTML, CSS, JS, REACT",
+        img: "img/p6.jpg",
+        href1: "https://scrimba.com/scrim/cvRz8NU2?a=13022.0.5.L10_29",
+        href2: "https://github.com/TomSzydlowski/Travel-journal",
+      },
+      {
+        id: "p7",
+        name: "PEOPLE COUNTER",
+        desc: "HTML, CSS, JS",
+        img: "img/p7.jpg",
+        href1: "https://scrimba.com/scrim/cpGbkKtq",
+        href2: "https://github.com/TomSzydlowski/People-counter",
+      },
+      {
+        id: "p8",
+        name: "CHROME EXTENSION",
+        desc: "HTML, CSS, JS",
+        img: "img/p8.jpg",
+        href1: "https://scrimba.com/scrim/cbRGbyfk",
+        href2: "https://github.com/TomSzydlowski/Chrome-extension",
+      },
+      {
+        id: "p9",
+        name: "SWITCH MODE",
+        desc: "HTML, CSS, JS",
+        img: "img/p9.jpg",
+        href1: "https://scrimba.com/scrim/cqMbZ4Tm",
+        href2: "https://github.com/TomSzydlowski/Switch-mode",
+      }
+    ]
